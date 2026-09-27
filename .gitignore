@@ -20,3 +20,6 @@ data/
 # Python
 .venv/
 __pycache__/
+
+# Mac
+.DS_Store
