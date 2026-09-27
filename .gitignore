@@ -1,0 +1,22 @@
+# Secrets
+*.pem
+.env
+.env.*
+*.key
+*.p12
+*.pfx
+secrets/
+
+# Personal financial data
+data/
+*.db
+*.sqlite
+*.sqlite3
+*.db-*
+*.sqlite-*
+*.sqlite3-*
+*.csv
+
+# Python
+.venv/
+__pycache__/
